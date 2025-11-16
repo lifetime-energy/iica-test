@@ -7,12 +7,12 @@
   "theme_color": "#AA6C39",
   "icons": [
     {
-      "src": "[★ 192x192px アイコン画像のURL]",
+      "src": "image192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "[★ 512x512px アイコン画像のURL]",
+      "src": "image512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
